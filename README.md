@@ -9,7 +9,7 @@ Put this in your `Cargo.toml`:
 
 ``` toml
 [dependencies]
-dxf = "0.5.0"
+dxf = "0.5.2"
 ```
 
 Or if you want [serde](https://github.com/serde-rs/serde) support, enable the `serialize` feature:
